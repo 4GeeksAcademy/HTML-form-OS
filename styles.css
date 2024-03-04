@@ -1,0 +1,18 @@
+.form-header {
+    background-color: lightgrey;
+}
+.error-message {
+    width: 95%;
+    height: 20px;
+    background-color: lightpink;
+    color: #CD2C33;
+}
+.container {
+    margin-top: 20px;
+
+}
+.col-12 btn-primary cancel-button {
+    color: white;
+    background-color: lightgray;
+    border: none;
+}
